@@ -1,0 +1,12 @@
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.deps.json
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfoInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfo.cs
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.CoreCompileInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\refint\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\ref\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.AssemblyReference.cache

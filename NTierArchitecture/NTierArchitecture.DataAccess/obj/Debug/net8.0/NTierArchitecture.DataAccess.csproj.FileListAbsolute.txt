@@ -1,0 +1,17 @@
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.deps.json
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.runtimeconfig.json
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.csproj.AssemblyReference.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.AssemblyInfoInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.AssemblyInfo.cs
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.csproj.CoreCompileInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArc.05F439AD.Up2Date
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\refint\NTierArchitecture.DataAccess.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\NTierArchitecture.DataAccess.genruntimeconfig.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.DataAccess\obj\Debug\net8.0\ref\NTierArchitecture.DataAccess.dll

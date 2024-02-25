@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C78CD5B-5A98-4DEC-847D-2B87473EDDB1}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C78CD5B-5A98-4DEC-847D-2B87473EDDB1}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C78CD5B-5A98-4DEC-847D-2B87473EDDB1}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C78CD5B-5A98-4DEC-847D-2B87473EDDB1}|NTierArchitecture.WebAPI\\NTierArchitecture.WebAPI.csproj|solutionrelative:ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.business\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.business\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|e:\\eren\\ymyp\\webapi\\ntierarchitecture\\ntierarchitecture.business\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C1240-D2EC-49A5-908D-112FD3B868A0}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:07:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebAPI\\Program.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.WebAPI\\Program.cs",
+              "RelativeToolTip": "NTierArchitecture.WebAPI\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T00:17:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\JwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:57:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:57:29.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:57:27.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "ToolTip": "E:\\Eren\\YMYP\\WebApi\\NTierArchitecture\\NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Constants\\MessageConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:57:25.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.deps.json
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.AssemblyReference.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfoInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfo.cs
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CoreCompileInputs.cache
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArc.1080D041.Up2Date
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\refint\NTierArchitecture.Business.dll
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.pdb
+E:\Eren\YMYP\WebApi\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\ref\NTierArchitecture.Business.dll
